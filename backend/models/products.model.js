@@ -1,6 +1,6 @@
 // for product model 
 
-import mongoose from "mongoose"; // importing mongoose
+import mongoose from "mongoose";// importing mongoose
 
 // schema for product model
 // What is schema? It is a blueprint of the data we want to store in the database and it is used to validate the data before it is stored in the database.
