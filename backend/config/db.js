@@ -17,4 +17,4 @@ export const connectDB =async() =>{
 
 //inside each collection have different documents (categories)- suppose products is a collection , project have different documents like smartwatch,cool gajets many more ..
 
-//collection for user for each users have documents whenever a user signup you store his info in document
+//collection for user for each users have documents whenever a user signup you store his info in document 
